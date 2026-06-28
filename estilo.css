@@ -1,0 +1,37 @@
+body{
+
+      /* Fundo degradê verdes background: linear-gradient(180deg, #556B2F, #013220,#0B3D0B); */
+      background-color: rgba(8, 122, 113, 0.877);
+  
+}
+
+#profile{
+       height: 70px;
+       width:70px ;
+       border:solid 1px  #fff;
+       border-radius:50%;
+      background-image: url(imagem.jpg);
+      background-size: cover;
+      margin:auto;
+
+}  
+#username{
+      color: #f8fffd;
+      text-align: center;
+}
+.buttonlist{
+      background-color: white;
+      border-radius: 20px;
+      font-size: 10px;
+      text-align: center;
+      padding: 15px;
+      width: 50%;
+       margin:auto;
+       margin-top: 20px;
+}
+
+
+   
+
+
+
